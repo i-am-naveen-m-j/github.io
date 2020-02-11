@@ -2,7 +2,8 @@
 ### Devops Engineer
 
 
-https://raw.githubusercontent.com/i-am-naveen-m-j/RESUME/master/NAVEEN-LINKD%20copy.jpg
+[Title](/Portfolio)
+<img src="images/NAVEEN-LINKD copy.jpg?raw=true"/>
 
 
 
