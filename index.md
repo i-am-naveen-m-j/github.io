@@ -2,10 +2,7 @@
 ### Devops Engineer
 
 
-
-
----https://raw.githubusercontent.com/i-am-naveen-m-j/RESUME/master/NAVEEN-LINKD%20copy.jpg
-
+https://raw.githubusercontent.com/i-am-naveen-m-j/RESUME/master/NAVEEN-LINKD%20copy.jpg
 
 
 
