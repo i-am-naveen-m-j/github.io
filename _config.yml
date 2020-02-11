@@ -6,7 +6,7 @@ description: > # newlines will be ignored in this theme, using <br> instead
   // Android Basics Nanodegree (Udacity Google Developer Nanodegree Scholarship)
   // Bachelor in Business Studies (BBS)
   <br><br>
-  <a href="https://www.linkedin.com/in/acevica/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/i-am-naveen-m-j/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-134454667-1
+google_analytics: 
